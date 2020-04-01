@@ -14,8 +14,8 @@ export default {
 export const standard = () => (
   <Avatar
     size="large"
-    username="Tom Coleman"
-    src="https://avatars2.githubusercontent.com/u/132554"
+    username="Bert"
+    src="https://avatars3.githubusercontent.com/u/54749218?s=460&u=9e10566fa49debe33755b0d9cac70538cc375087&v=4"
   />
 );
 
@@ -23,23 +23,23 @@ export const sizes = () => (
   <div>
     <Avatar
       size="large"
-      username="Tom Coleman"
-      src="https://avatars2.githubusercontent.com/u/132554"
+      username="Bert"
+      src="https://avatars3.githubusercontent.com/u/54749218?s=460&u=9e10566fa49debe33755b0d9cac70538cc375087&v=4"
     />
     <Avatar
       size="medium"
-      username="Tom Coleman"
-      src="https://avatars2.githubusercontent.com/u/132554"
+      username="Bert"
+      src="https://avatars3.githubusercontent.com/u/54749218?s=460&u=9e10566fa49debe33755b0d9cac70538cc375087&v=4"
     />
     <Avatar
       size="small"
-      username="Tom Coleman"
-      src="https://avatars2.githubusercontent.com/u/132554"
+      username="Bert"
+      src="https://avatars3.githubusercontent.com/u/54749218?s=460&u=9e10566fa49debe33755b0d9cac70538cc375087&v=4"
     />
     <Avatar
       size="tiny"
-      username="Tom Coleman"
-      src="https://avatars2.githubusercontent.com/u/132554"
+      username="Bert"
+      src="https://avatars3.githubusercontent.com/u/54749218?s=460&u=9e10566fa49debe33755b0d9cac70538cc375087&v=4"
     />
   </div>
 );
@@ -65,11 +65,11 @@ export const loading = () => (
 export const large = () => (
   <div>
     <Avatar loading size="large" />
-    <Avatar size="large" username="Tom Coleman" />
+    <Avatar size="large" username="Bert" />
     <Avatar
       size="large"
-      username="Tom Coleman"
-      src="https://avatars2.githubusercontent.com/u/132554"
+      username="Bert"
+      src="https://avatars3.githubusercontent.com/u/54749218?s=460&u=9e10566fa49debe33755b0d9cac70538cc375087&v=4"
     />
   </div>
 );
@@ -78,8 +78,8 @@ export const knobs = () => (
   <Avatar
     loading={boolean('Loading')}
     size={select('Size', ['tiny', 'small', 'medium', 'large'])}
-    username="Dominic Nguyen"
-    src="https://avatars2.githubusercontent.com/u/263385"
+    username="Bert"
+    src="https://avatars3.githubusercontent.com/u/54749218?s=460&u=9e10566fa49debe33755b0d9cac70538cc375087&v=4"
   />
 );
 
