@@ -3,7 +3,7 @@ import React from 'react';
 import { Welcome } from './Welcome';
 
 export default {
-    title: 'An Intro|Welcome',
+    title: 'Design System|An Intro',
     component: Welcome,
 };
 
